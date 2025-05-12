@@ -75,7 +75,7 @@ Um exemplo:
 
 ## Chamar API
 
-
+`CHAVEAPI = Obter_chave_de_API()`
 
 `url = "https://v6.exchangerate-api.com/v6/" + CHAVEAPI + "/latest/" + moeda_de_origem`
 
